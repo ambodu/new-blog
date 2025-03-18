@@ -8,7 +8,7 @@ export default defineNuxtConfig({
   ],
   content: {
     highlight: {
-      theme: 'github-light'
+      theme: 'github-dark'
     }
   },
   app: {
@@ -17,7 +17,7 @@ export default defineNuxtConfig({
       meta: [
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-        { name: 'description', content: 'My personal blog and gallery' }
+        { name: 'description', content: 'My personal blog built with Nuxt 3' }
       ]
     }
   }
