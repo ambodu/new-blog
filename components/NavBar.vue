@@ -12,6 +12,7 @@
           <NuxtLink to="/blog" class="nav-link">Blog</NuxtLink>
           <NuxtLink to="/about" class="nav-link">About</NuxtLink>
           <NuxtLink to="/projects" class="nav-link">Projects</NuxtLink>
+          <NuxtLink to="/her" class="nav-link">Her</NuxtLink>
         </div>
       </div>
     </div>

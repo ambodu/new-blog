@@ -1,5 +1,5 @@
 <template>
-  <article class="max-w-4xl mx-auto">
+  <article class="max-w-4xl mx-auto min-h-screen">
     <ContentDoc v-slot="{ doc }">
       <div class="mb-8">
         <h1 class="text-4xl font-bold mb-4">{{ doc.title }}</h1>

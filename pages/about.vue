@@ -1,11 +1,12 @@
 <template>
-  <div class="max-w-4xl mx-auto">
+  <div class="max-w-4xl mx-auto min-h-screen">
     <h1 class="text-3xl font-bold mb-8">About Me</h1>
     <div class="bg-white p-8 rounded-lg shadow-md">
       <div class="prose prose-lg">
         <p>
-          Hello! I'm a passionate developer who loves building things for the web.
-          I specialize in modern web technologies and enjoy sharing my knowledge through writing.
+          Hello! I'm a passionate developer who loves building things for the
+          web. I specialize in modern web technologies and enjoy sharing my
+          knowledge through writing.
         </p>
         <h2>Skills</h2>
         <ul>
